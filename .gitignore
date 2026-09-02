@@ -1,0 +1,4 @@
+/iceberg-lakehouse-demo
+*.exe
+*.test
+.DS_Store
