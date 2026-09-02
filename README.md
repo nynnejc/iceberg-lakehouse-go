@@ -1,1 +1,1 @@
-# iceberg-lakehouse-demo
+# iceberg-lakehouse-go
